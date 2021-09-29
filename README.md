@@ -6,11 +6,12 @@ CURRENT URL:           /my-news-title
 NEW UR     : /my-prefix/my-news-title
 
 ## Environment
-- Tested with with WP 5.8.1, PHP 7.4
+- WP 5.8.1
+- PHP 7.4
 
 ## Based on 
-https://wordpress.stackexchange.com/a/242513/130668
+- https://wordpress.stackexchange.com/a/242513/130668
 
 ## References
-https://developer.wordpress.org/reference/hooks/post_link/
-https://developer.wordpress.org/reference/hooks/post_type_link/
+- https://developer.wordpress.org/reference/hooks/post_link/
+- https://developer.wordpress.org/reference/hooks/post_type_link/
